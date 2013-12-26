@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Fixture Brazil 2014",
+      "thumb": "fixturebrazil2014/thumb.png",
+      "desc": " Fixture Brasil 2014 gives you all the information needed for the next World Cup for free and without Ads. We are not Crazy, we just enjoyed creating this application that you will enjoy too for FREE AND WITHOUT ADS!!!",
+      "url": "https://play.google.com/store/apps/details?id=com.shiftleft.WorldCupGuide",
+      "submitter": "Cristian",
+      "submissionDate": "2013-12-26",
+      "tags": [
+        "soccer",
+        "World Cup",
+        "brazil",
+        "android",
+        "free",
+        "angularjs",
+        "mobile",
+        "fixture"
+      ]
     }
   ]
 }
